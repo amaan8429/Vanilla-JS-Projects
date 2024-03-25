@@ -21,4 +21,4 @@ This repository contains a collection of projects built using HTML, CSS, and van
 
 ## 🤝 Contributors
 
-- Mohd Amaan - [@your_github_username](github.com/amaan8429)
+- Mohd Amaan - [github](github.com/amaan8429)
